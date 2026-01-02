@@ -4,6 +4,9 @@
 - 이사람 뭐해요? -> 몰라요
 - 이사람 뭐 배워요? -> 나도 지금 내가 뭘 배우고 있는지 모르겠어요ㅠ
 
+### 2026/01/03 Added
+- 오픈소스로 배포된걸 이것저것 만져보고 있어요...
+
 <!--
 **Chitosu311/Chitosu311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
