@@ -1,8 +1,8 @@
 ## Hi there, 반갑습니다! 👋
 
-이사람 어디에 살아요? -> 한국
-이사람 뭐해요? -> 몰라요
-이사람 뭐 배워요? -> 나도 지금 내가 뭘 배우고 있는지 모르겠어요ㅠ
+- 이사람 어디에 살아요? -> 한국
+- 이사람 뭐해요? -> 몰라요
+- 이사람 뭐 배워요? -> 나도 지금 내가 뭘 배우고 있는지 모르겠어요ㅠ
 
 <!--
 **Chitosu311/Chitosu311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
