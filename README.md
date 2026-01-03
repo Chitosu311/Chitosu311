@@ -1,5 +1,5 @@
 ## Hi there, 반갑습니다! 👋
-### "💻Anywhere I open my laptop becomes my workshop."
+### "💻Anywhere I open my laptop becomes my workspace."
 
 - 이사람 어디에 살아요? -> 한국
 - 이사람 뭐해요? -> 몰라요
